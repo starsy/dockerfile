@@ -1,4 +1,4 @@
-FROM i386/alpine:3.7
+FROM i386/alpine:3.6
 
 LABEL maintainer="mritd <mritd1234@gmail.com>"
 
